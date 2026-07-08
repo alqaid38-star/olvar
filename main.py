@@ -13,7 +13,7 @@ from pyrogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMa
 
 API_ID = 24217199
 API_HASH = "11c12a66dbd23da592211771db1bce6b"
-BOT_TOKEN = "8365190299:AAHKeaiiC3EPAfLXXLBWWeBTZhWrUzEZr8c"
+BOT_TOKEN = "8365190299:AAHWzM9rhZuPOwhN3Rqh65KAiVQ-WcuRFnQ"
 ADMIN_ID = 6841548230
 
 app = Client("HostingManager", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
